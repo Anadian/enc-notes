@@ -1,0 +1,38 @@
+{
+  "name": "enc-notes",
+  "version": "0.0.2",
+  "description": "Encrypt, decrypt, and manage notes in a git repository.",
+  "main": "source/main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "./source/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anadian/enc-notes.git"
+  },
+  "keywords": [
+    "encryption",
+    "cryptography",
+    "secure",
+    "notes",
+    "personal",
+    "decryption",
+    "security",
+    "repository",
+    "git",
+    "encrypt",
+    "decrypt",
+    "libre",
+    "open",
+    "free",
+    "mit"
+  ],
+  "author": "Anadian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anadian/enc-notes/issues"
+  },
+  "homepage": "https://github.com/Anadian/enc-notes#readme"
+}
