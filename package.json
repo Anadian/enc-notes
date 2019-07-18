@@ -3,7 +3,18 @@
   "version": "0.0.2",
   "description": "Encrypt, decrypt, and manage notes in a git repository.",
   "main": "source/main.js",
-  "dependencies": {},
+  "dependencies": {
+    "make-dir": "*",
+    "application-log-winston-interface": ">=1.0.2",
+    "env-paths": "*",
+    "command-line-args": "*",
+    "command-line-usage": "*",
+    "salt-file": ">=1.0.1",
+    "get-stream": "*",
+    "inquirer": "*",
+    "multihashes": "*",
+    "multibase": "*"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "./source/main.js"
